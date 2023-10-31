@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0px auto;
+}
+header{
+    background: #EDE6DD;
+    height: 100px;
+    padding-top: 20px;
+}
+.nav {
+margin-top: 10px;
+display: flex;
+justify-content: space-between;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin-right: 20px;
+    
+}
